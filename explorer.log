@@ -1,0 +1,352 @@
+nohup: appending output to 'nohup.out'
+warning: use Mix.Config is deprecated. Use the Config module instead
+  config/config.exs:3
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/block_scout_web/config/config.exs:6
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/block_scout_web/config/prod.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/ethereum_jsonrpc/config/config.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/ethereum_jsonrpc/config/prod.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/explorer/config/config.exs:6
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/explorer/config/prod.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/explorer/config/prod/parity.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/indexer/config/config.exs:3
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/indexer/config/prod.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/indexer/config/prod/parity.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  config/prod.exs:1
+
+warning: Supervisor.start_child/2 with a list of args is deprecated, please use DynamicSupervisor instead
+  (elixir 1.13.4) lib/supervisor.ex:826: Supervisor.start_child/2
+  (que 0.10.1) lib/que/server_supervisor.ex:48: Que.ServerSupervisor.add/2
+  (block_scout_web 0.0.1) lib/block_scout_web/controllers/address_contract_verification_controller.ex:53: BlockScoutWeb.AddressContractVerificationController.create/2
+  (block_scout_web 0.0.1) lib/block_scout_web/controllers/address_contract_verification_controller.ex:1: BlockScoutWeb.AddressContractVerificationController.action/2
+  (block_scout_web 0.0.1) lib/block_scout_web/controllers/address_contract_verification_controller.ex:1: BlockScoutWeb.AddressContractVerificationController.phoenix_controller_pipeline/2
+  (phoenix 1.5.13) lib/phoenix/router.ex:352: Phoenix.Router.__call__/2
+
+nohup: appending output to 'nohup.out'
+warning: use Mix.Config is deprecated. Use the Config module instead
+  config/config.exs:3
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/block_scout_web/config/config.exs:6
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/block_scout_web/config/prod.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/ethereum_jsonrpc/config/config.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/ethereum_jsonrpc/config/prod.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/explorer/config/config.exs:6
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/explorer/config/prod.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/explorer/config/prod/parity.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/indexer/config/config.exs:3
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/indexer/config/prod.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/indexer/config/prod/parity.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  config/prod.exs:1
+
+warning: Supervisor.start_child/2 with a list of args is deprecated, please use DynamicSupervisor instead
+  (elixir 1.13.4) lib/supervisor.ex:826: Supervisor.start_child/2
+  (que 0.10.1) lib/que/server_supervisor.ex:48: Que.ServerSupervisor.add/2
+  (block_scout_web 0.0.1) lib/block_scout_web/controllers/address_contract_verification_controller.ex:53: BlockScoutWeb.AddressContractVerificationController.create/2
+  (block_scout_web 0.0.1) lib/block_scout_web/controllers/address_contract_verification_controller.ex:1: BlockScoutWeb.AddressContractVerificationController.action/2
+  (block_scout_web 0.0.1) lib/block_scout_web/controllers/address_contract_verification_controller.ex:1: BlockScoutWeb.AddressContractVerificationController.phoenix_controller_pipeline/2
+  (phoenix 1.5.13) lib/phoenix/router.ex:352: Phoenix.Router.__call__/2
+
+nohup: appending output to 'nohup.out'
+warning: use Mix.Config is deprecated. Use the Config module instead
+  config/config.exs:3
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/block_scout_web/config/config.exs:6
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/block_scout_web/config/prod.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/ethereum_jsonrpc/config/config.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/ethereum_jsonrpc/config/prod.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/explorer/config/config.exs:6
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/explorer/config/prod.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/explorer/config/prod/parity.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/indexer/config/config.exs:3
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/indexer/config/prod.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/indexer/config/prod/parity.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  config/prod.exs:1
+
+warning: Supervisor.start_child/2 with a list of args is deprecated, please use DynamicSupervisor instead
+  (elixir 1.13.4) lib/supervisor.ex:826: Supervisor.start_child/2
+  (que 0.10.1) lib/que/server_supervisor.ex:48: Que.ServerSupervisor.add/2
+  (block_scout_web 0.0.1) lib/block_scout_web/controllers/address_contract_verification_controller.ex:53: BlockScoutWeb.AddressContractVerificationController.create/2
+  (block_scout_web 0.0.1) lib/block_scout_web/controllers/address_contract_verification_controller.ex:1: BlockScoutWeb.AddressContractVerificationController.action/2
+  (block_scout_web 0.0.1) lib/block_scout_web/controllers/address_contract_verification_controller.ex:1: BlockScoutWeb.AddressContractVerificationController.phoenix_controller_pipeline/2
+  (phoenix 1.5.13) lib/phoenix/router.ex:352: Phoenix.Router.__call__/2
+
+nohup: appending output to 'nohup.out'
+warning: use Mix.Config is deprecated. Use the Config module instead
+  config/config.exs:3
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/block_scout_web/config/config.exs:6
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/block_scout_web/config/prod.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/ethereum_jsonrpc/config/config.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/ethereum_jsonrpc/config/prod.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/explorer/config/config.exs:6
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/explorer/config/prod.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/explorer/config/prod/parity.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/indexer/config/config.exs:3
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/indexer/config/prod.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/indexer/config/prod/parity.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  config/prod.exs:1
+
+nohup: appending output to 'nohup.out'
+warning: use Mix.Config is deprecated. Use the Config module instead
+  config/config.exs:3
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/block_scout_web/config/config.exs:6
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/block_scout_web/config/prod.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/ethereum_jsonrpc/config/config.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/ethereum_jsonrpc/config/prod.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/explorer/config/config.exs:6
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/explorer/config/prod.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/explorer/config/prod/parity.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/indexer/config/config.exs:3
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/indexer/config/prod.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/indexer/config/prod/parity.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  config/prod.exs:1
+
+nohup: appending output to 'nohup.out'
+warning: use Mix.Config is deprecated. Use the Config module instead
+  config/config.exs:3
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/block_scout_web/config/config.exs:6
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/block_scout_web/config/prod.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/ethereum_jsonrpc/config/config.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/ethereum_jsonrpc/config/prod.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/explorer/config/config.exs:6
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/explorer/config/prod.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/explorer/config/prod/parity.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/indexer/config/config.exs:3
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/indexer/config/prod.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/indexer/config/prod/parity.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  config/prod.exs:1
+
+warning: Supervisor.start_child/2 with a list of args is deprecated, please use DynamicSupervisor instead
+  (elixir 1.13.4) lib/supervisor.ex:826: Supervisor.start_child/2
+  (que 0.10.1) lib/que/server_supervisor.ex:48: Que.ServerSupervisor.add/2
+  (block_scout_web 0.0.1) lib/block_scout_web/controllers/address_contract_verification_controller.ex:53: BlockScoutWeb.AddressContractVerificationController.create/2
+  (block_scout_web 0.0.1) lib/block_scout_web/controllers/address_contract_verification_controller.ex:1: BlockScoutWeb.AddressContractVerificationController.action/2
+  (block_scout_web 0.0.1) lib/block_scout_web/controllers/address_contract_verification_controller.ex:1: BlockScoutWeb.AddressContractVerificationController.phoenix_controller_pipeline/2
+  (phoenix 1.5.13) lib/phoenix/router.ex:352: Phoenix.Router.__call__/2
+
+(node:903935) V8: /root/suncex/fuse-explorer/apps/explorer/priv/solc_compilers/v0.5.0+commit.1d4f565a.js:3 Invalid asm.js: Invalid member of stdlib
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:903973) V8: /root/suncex/fuse-explorer/apps/explorer/priv/solc_compilers/v0.5.0+commit.1d4f565a.js:3 Invalid asm.js: Invalid member of stdlib
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:904006) V8: /root/suncex/fuse-explorer/apps/explorer/priv/solc_compilers/v0.5.0+commit.1d4f565a.js:3 Invalid asm.js: Invalid member of stdlib
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:904044) V8: /root/suncex/fuse-explorer/apps/explorer/priv/solc_compilers/v0.5.0+commit.1d4f565a.js:3 Invalid asm.js: Invalid member of stdlib
+(Use `node --trace-warnings ...` to show where the warning was created)
+nohup: appending output to 'nohup.out'
+warning: use Mix.Config is deprecated. Use the Config module instead
+  config/config.exs:3
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/block_scout_web/config/config.exs:6
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/block_scout_web/config/prod.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/ethereum_jsonrpc/config/config.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/ethereum_jsonrpc/config/prod.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/explorer/config/config.exs:6
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/explorer/config/prod.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/explorer/config/prod/parity.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/indexer/config/config.exs:3
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/indexer/config/prod.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/indexer/config/prod/parity.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  config/prod.exs:1
+
+nohup: appending output to 'nohup.out'
+warning: use Mix.Config is deprecated. Use the Config module instead
+  config/config.exs:3
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/block_scout_web/config/config.exs:6
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/block_scout_web/config/prod.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/ethereum_jsonrpc/config/config.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/ethereum_jsonrpc/config/prod.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/explorer/config/config.exs:6
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/explorer/config/prod.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/explorer/config/prod/parity.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/indexer/config/config.exs:3
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/indexer/config/prod.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  apps/indexer/config/prod/parity.exs:1
+
+warning: use Mix.Config is deprecated. Use the Config module instead
+  config/prod.exs:1
+
+warning: Supervisor.start_child/2 with a list of args is deprecated, please use DynamicSupervisor instead
+  (elixir 1.13.4) lib/supervisor.ex:826: Supervisor.start_child/2
+  (que 0.10.1) lib/que/server_supervisor.ex:48: Que.ServerSupervisor.add/2
+  (block_scout_web 0.0.1) lib/block_scout_web/controllers/address_contract_verification_controller.ex:53: BlockScoutWeb.AddressContractVerificationController.create/2
+  (block_scout_web 0.0.1) lib/block_scout_web/controllers/address_contract_verification_controller.ex:1: BlockScoutWeb.AddressContractVerificationController.action/2
+  (block_scout_web 0.0.1) lib/block_scout_web/controllers/address_contract_verification_controller.ex:1: BlockScoutWeb.AddressContractVerificationController.phoenix_controller_pipeline/2
+  (phoenix 1.5.13) lib/phoenix/router.ex:352: Phoenix.Router.__call__/2
+
+nohup: appending output to 'nohup.out'
+nohup: appending output to 'nohup.out'
+nohup: appending output to 'nohup.out'
+nohup: appending output to 'nohup.out'
+nohup: appending output to 'nohup.out'
+nohup: appending output to 'nohup.out'
+nohup: appending output to 'nohup.out'
+nohup: appending output to 'nohup.out'
